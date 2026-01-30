@@ -1,5 +1,22 @@
+# Xcode
 .DS_Store
 DerivedData/
 *.xcuserstate
-*.xcuserdata/
+xcuserdata/
+.xcuserdata/
 build/
+*.xcarchive
+*.ipa
+*.zip
+Pods/
+
+# Swift Package Manager
+.swiftpm/
+
+# IDE
+.vscode/
+*.swiftpm
+
+# OS
+.DS_Store
+Thumbs.db
